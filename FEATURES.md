@@ -87,3 +87,23 @@ Game frontends do not include proprietary game data; add only games or files you
 ## Blender included in every setup
 
 Blender (org.blender.Blender) is included in every setup for 3D modeling, animation, rendering, and video editing. Installers fetch it from Flathub; Blender’s own license and terms apply.
+
+## Fifteen additional purpose-specific applications
+
+The setup adds these Flathub applications for software QA testing. Applications are fetched from Flathub by the setup script; each app keeps its own licensing and terms.
+
+1. **Podman Desktop** (io.podman_desktop.PodmanDesktop) — Manage local containers and inspect development environments.
+2. **Umbrello UML Modeller** (org.kde.umbrello) — Create UML diagrams to plan software architecture.
+3. **Rocs** (org.kde.rocs) — Explore graph algorithms and data structures visually.
+4. **Kst** (org.kde.kst) — Display and inspect scientific measurement and time-series data.
+5. **LabPlot** (org.kde.labplot) — Plot and analyze data imported from spreadsheets or research files.
+6. **GNOME Boxes** (org.gnome.Boxes) — Create and manage local test virtual machines.
+7. **Logs** (org.gnome.Logs) — Review system event logs while troubleshooting.
+8. **Disk Usage Analyzer** (org.gnome.baobab) — Find folders that use significant storage.
+9. **QGIS** (org.qgis.qgis) — Create and analyze geographic information system projects.
+10. **GNOME Maps** (org.gnome.Maps) — Look up places and routes using online map data.
+11. **KGeoTag** (org.kde.kgeotag) — Review and edit photo location metadata.
+12. **KBibTeX** (org.kde.kbibtex) — Edit BibTeX references for academic writing.
+13. **digiKam** (org.kde.digikam) — Organize and annotate large photo libraries.
+14. **Weather** (org.gnome.Weather) — Check local forecast information and plan outdoor work.
+15. **KPhotoAlbum** (org.kde.kphotoalbum) — Tag and organize large photo collections.
