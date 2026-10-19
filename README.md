@@ -25,8 +25,4 @@ The `quality-loop.svg` wallpaper is original. Quality Loop OS is an independent 
 See [FEATURES.md](FEATURES.md) for three local tools included for software QA testing.
 
 
-The installer also includes three purpose-specific applications: **LibreOffice, GNOME Calendar, KeePassXC**. See [FEATURES.md](FEATURES.md).
-
-The installer also includes three purpose-specific applications: **GNOME Builder, Wireshark, KiCad**. See [FEATURES.md](FEATURES.md).
-
-The installer also includes three purpose-specific applications: **DB Browser for SQLite, GNOME Builder, Wireshark**. See [FEATURES.md](FEATURES.md).
+The installer includes ten more applications selected for this distro's purpose. See [FEATURES.md](FEATURES.md) for the list.
