@@ -25,4 +25,4 @@ The `quality-loop.svg` wallpaper is original. Quality Loop OS is an independent 
 See [FEATURES.md](FEATURES.md) for three local tools included for software QA testing.
 
 
-The installer includes fifteen additional purpose-specific applications; the complete list is in [FEATURES.md](FEATURES.md).
+The installer includes 43 purpose-specific applications beyond its core selection; the complete list is in [FEATURES.md](FEATURES.md).
